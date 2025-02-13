@@ -41,22 +41,3 @@ To integrate or deploy the Global Assistant Chatbot, follow the steps below:
 
    ```bash
    git clone https://github.com/your-repo/global-assistant-chatbot.git
-Install required dependencies:
-
-bash
-Copy
-cd global-assistant-chatbot
-pip install -r requirements.txt
-Run the chatbot:
-
-bash
-Copy
-python chatbot.py
-Contributing
-We welcome contributions to the Global Assistant Chatbot! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request with your changes. All contributions will be reviewed.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-For further information or inquiries, feel free to reach out to us through the repository or via email at [your-email@example.com].
